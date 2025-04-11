@@ -3,8 +3,8 @@
 
 ## Данный проект разделен на:
 - Мод - [Modrinth](https://modrinth.com/mod/ppl-helper) / [GitHub](https://github.com/pepeland-helper/ppl-helper-mod)
-- Сайт - [v1.0](https://l.pplh.ru) / [v2.0 pre-release](https://pplh.ru)
-- API - [v?.?](https://api.pplh.ru)
+- Сайт - [тык](https://pplh.ru)
+- API - [v1.1](https://api.pplh.ru)
 
 ## Основные функции
 ### Проекты
